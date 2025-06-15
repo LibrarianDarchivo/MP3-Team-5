@@ -1,3 +1,6 @@
 # MP3-Team-5
 
-real
+- Delos Santos, Ysabel
+- Reyes, Jan Andrei
+- Pamitan, Mary Micah
+- Lim, Rich Daniel
